@@ -17,7 +17,7 @@ Sample request body
 ### To add a new room
 
 
-## 2. POST /room/bookRoom
+## 2. POST /rooms/bookRoom
 
 ### To book a slot
 
