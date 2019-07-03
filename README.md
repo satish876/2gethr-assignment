@@ -33,3 +33,14 @@ Sample request body
 ## 3. GET /room
 
 ### To get all the rooms
+
+
+## Installation steps:
+
+### Run these commands in terminal
+
+`git clone git@github.com:satish876/2gethr-assignment.git`
+
+`cd 2gethr-assignment`
+
+`npm i && npm start`
